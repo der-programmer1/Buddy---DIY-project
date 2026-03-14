@@ -34,3 +34,8 @@
             - 3x Press-Button
             - Slide Switch
             - OLED Display (128px times 64px)
+
+
+## Good to know:
+
+    - You can customize the Codes, for yourself, however you want and play with the Code.
