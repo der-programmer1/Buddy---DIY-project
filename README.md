@@ -13,8 +13,8 @@
 
 - You can look at the Codes and Tools in the <a href="Buddy-Releases"></a> Folder.
 
-- You can look at real life Photos, I made from my Prototype (V1.0) 
-  and I am updating this Repo weekly, so you can see what I am working on at time. 
+## You can look at real life Photos, I made from my Prototype (V1.0) 
+## and I am updating this Repo weekly, so you can see what I am working on at time. 
 
 
 -----------------------------------------------------------------
