@@ -26,16 +26,29 @@
             - Joystick
             - 2x OLED Display (128px times 64px)
             - Buzzer
-            -Wires
+            - Wires
 
 # Components from V1.1:
             - Exterm Camera-Modul - with LiPo Rechargable Battery and charger Modul( USB-C )
             - ESP32 c3
-            - 3x Press-Button
+            - 3x Push-Button
             - Slide Switch
             - OLED Display (128px times 64px)
 
+# Compunents from V2.0:
+            - ESP32c3
+            - OLED Display
+            - 3x Push-Button
+            - Wires
+
+## My Life-Cheat-Cheet🙃:
+- When you are sad:
+- When you are tired:
+- When you are stressed:
+- When you are happy:
+- When you are proud:
+- When you are bored:
+- When you are angry:
 
 ## Good to know:
-
     - You can customize the Codes, for yourself, however you want and play with the Code.
