@@ -52,3 +52,4 @@
 
 ## Good to know:
     - You can customize the Codes, for yourself, however you want and play with the Code.
+    - Try to understand it first and extend it yourself
