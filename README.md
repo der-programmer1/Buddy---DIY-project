@@ -16,6 +16,9 @@
 ## You can look at real life Photos, I made from my Prototype (V1.0) 
 ## and I am updating this Repo weekly, so you can see what I am working on at time. 
 
+-----------------------------------------------------------------
+
+<img src="PHOTOS/Buddy-Prototype(V1.0) - working.jpg">
 
 -----------------------------------------------------------------
 
