@@ -42,13 +42,13 @@
             - Wires
 
 ## My Life-Cheat-Cheet🙃:
-- When you are sad: programming / go for a walk
-- When you are tired: sleep(programming)
-- When you are stressed: turn off music etc. and organize for most important things
-- When you are happy: learn something new / go for a walk / spent time with family
-- When you are proud: continue working on your projects
-- When you are bored: look which project you can work on
-- When you are angry: programming
+- When you are sad:  programming / go for a walk
+- When you are tired:  sleep(programming)
+- When you are stressed:  turn off music etc. and organize for most important things
+- When you are happy:  learn something new / go for a walk / spent time with family
+- When you are proud:  continue working on your projects
+- When you are bored:  look which project you can work on
+- When you are angry:  programming
 
 ## Good to know:
     - You can customize the Codes, for yourself, however you want and play with the Code.
